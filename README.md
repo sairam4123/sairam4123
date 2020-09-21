@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a bot and game developer, working on [OpenCity](https://github.com/OpenCity1/OpenCity), a city building game, I'm looking for devs who wants to help me with my development.  
+
+Thank you.
+
 <!--
 **sairam4123/sairam4123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
