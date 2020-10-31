@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a bot and game developer, working on [OpenCity](https://github.com/OpenCity1/OpenCity), a city building game, I'm looking for devs who wants to help me with my development.  
+I'm a bot and game developer, working on [OpenSkyCity](https://github.com/OpenSkyCity/OpenSkyCity), a city building game, I'm looking for devs who wants to help me with my development.  
 
 Thank you.
 
