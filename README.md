@@ -2,6 +2,7 @@
 
 I'm a bot and game developer, working on [OpenSkyCity](https://github.com/OpenSkyCity/OpenSkyCity), a city building game, I'm looking for devs who wants to help me with my development.  
 
+![Sairam's github stats](https://github-readme-stats.vercel.app/api?username=sairam4123&show_icons=true&count_private=true&theme=gruvbox)  
 Thank you.
 
 <!--
