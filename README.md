@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey guys, I'm Sairam, a game developer working on multiple games like OpenSkyCity and OpenSkyTrainSimulator. I'm a avid [@python](https://github.com/python/cpython) programmer and a regular [@godotengine/godot](https://github.com/godotengine/godot) user.
+Hey guys, I'm Sairam, a game developer working on multiple games like OpenSkyCity and OpenSkyTrainSimulator. I'm a avid [@python](https://github.com/python/cpython) programmer and a regular [@godotengine](https://github.com/godotengine/godot) user.
 
 To contact me:
  - Discord (Sairam#1724)
