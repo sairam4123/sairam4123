@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a bot and game developer, working on [OpenSkyCity](https://github.com/OpenSkyCity/OpenSkyCity), a city building game, I'm looking for devs who wants to help me with my development.  
+Hey guys, I'm Sairam, a game developer working on multiple games like OpenSkyCity and OpenSkyTrainSimulator. I'm a avid @python programmer and a regular @godotengine/godot user.
+
+To contact me:
+ - Discord (Sairam#1724)
+ - Guilded (Sairam)
+ - Revolt (Sairam)
+ - Email sairamkumar2022@gmail.com
 
 ![Sairam's github stats](https://github-readme-stats.vercel.app/api?username=sairam4123&show_icons=true&count_private=true&theme=gruvbox)  
 Thank you.
