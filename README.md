@@ -9,6 +9,7 @@ To contact me:
  - Email sairamkumar2022@gmail.com
 
 ![Sairam's github stats](https://github-readme-stats.vercel.app/api?username=sairam4123&show_icons=true&count_private=true&theme=gruvbox)  
+![Github Metrics](https://metrics.lecoq.io/sairam4123)
 Thank you.
 
 <!--
