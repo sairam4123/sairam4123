@@ -8,8 +8,9 @@ To contact me:
  - Revolt (Sairam)
  - Email sairamkumar2022@gmail.com
 
-![Sairam's github stats](https://github-readme-stats.vercel.app/api?username=sairam4123&show_icons=true&count_private=true&theme=gruvbox)  
-![Github Metrics](https://metrics.lecoq.io/sairam4123)
+
+![Github Metrics](https://camo.githubusercontent.com/9e4b44effb0d632e599bcb43d72c30c14f63a0b9d04e8e05c095f226984b4977/68747470733a2f2f6d6574726963732e6c65636f712e696f2f73616972616d34313233)
+
 Thank you.
 
 <!--
