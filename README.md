@@ -9,7 +9,9 @@ To contact me:
  - Email sairamkumar2022@gmail.com
 
 
-![Github Metrics](https://camo.githubusercontent.com/9e4b44effb0d632e599bcb43d72c30c14f63a0b9d04e8e05c095f226984b4977/68747470733a2f2f6d6574726963732e6c65636f712e696f2f73616972616d34313233)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 Thank you.
 
