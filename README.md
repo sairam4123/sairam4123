@@ -13,6 +13,12 @@ I'm an Information Technology student interested in **software architecture, bac
 * Exploring AI assisted software development
 * Interested in railway operations, train movement, and traffic management
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
+
 ## Tech Stack
 
 **Languages:**
